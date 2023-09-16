@@ -1,7 +1,9 @@
 
- ![Header](./github-header-image.png)
-
-<h3 align="center">I'm a Full-Stack Developer with a background in chemistry. I'm a lover of the sciences and passionate about everything I do. I like to learn something new every day, which is why I'm always improving my skills.</h3>
+<!------ ![Header](./github-header-image.png)----->
+<div id="header" align="center">
+<img src="./github-header-image.png" alt="header"width="600" height="200">
+  <div>
+<h3 align="center">A Full-Stack Developer with a background in chemistry. I'm a lover of the sciences and passionate about everything I do. I like to learn something new every day, which is why I'm always improving my skills.</h3>
 
 ## Technical Stack:
 
