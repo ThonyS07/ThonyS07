@@ -1,4 +1,6 @@
 
+ ![Header](./github-header-image.png)
+
 <h4 align="center">I'm a Full-Stack Developer with a background in chemistry. I'm a lover of the sciences and passionate about everything I do. I like to learn something new every day, which is why I'm always improving my skills.</h4>
 
 ## Technical Stack:
