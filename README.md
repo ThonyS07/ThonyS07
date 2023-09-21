@@ -26,9 +26,9 @@
 
 <div align="center">
 
-<!--### Github Stats
+### Github Stats
 
-[![thonys07 GitHub stats](https://github-readme-stats.vercel.app/api?username=thonys07&count_private=true&show_icons=true&theme=nord)](https://github.com/thonys07)-->
+[![thonys07 GitHub stats](https://github-readme-stats.vercel.app/api?username=thonys07&count_private=true&show_icons=true&theme=nord)](https://github.com/thonys07)
 
 ### Top Languages
 
