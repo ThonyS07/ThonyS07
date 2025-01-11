@@ -47,7 +47,7 @@
 
 ### Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thonys07&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thonys07&theme=nord)](https://git.io/streak-stats)
 
 
 ## Find me:
